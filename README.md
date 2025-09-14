@@ -33,7 +33,8 @@ pytest --env=prod -k smoke
 ---
 
 ## Project Structure
-
+PS
+The name of the commit is Yishai because that is the user on whom the example was worked.
 ```
 pytest-api-infra/
 ├── config/        # Environment configs (.env files, config loader)
