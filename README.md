@@ -33,7 +33,6 @@ pytest --env=prod -k smoke
 ---
 
 ## Project Structure
-PS
 The name of the commit is Yishai because that is the user the computer was working on.
 ```
 pytest-api-infra/
