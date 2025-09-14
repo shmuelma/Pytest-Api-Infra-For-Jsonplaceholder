@@ -1,7 +1,7 @@
 # API Test Automation Framework (pytest + Python)
 
 ##  How to Run
-
+The commit name is for Yishai because that's the user the computer was running under, so you can ignore it.
 1. **Setup environment**
 
 ```bash
